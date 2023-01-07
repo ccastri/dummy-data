@@ -6,7 +6,7 @@
       "title": "Yoda: Lego Star Wars II",
       "rating": 5,
       "genre": "Lego Movies",
-      "short_description": "Yoda and his friends looking for adventures",
+      "short_description": "In this set Yoda and his friends are looking for save the world. But first the will need you to lead the team to the victory guided by the strength power",
       "price": 10000
     },
     {
@@ -15,7 +15,7 @@
       "title": "R2D2: Lego Star Wars II",
       "rating": 5,
       "genre": "Lego Movies",
-      "short_description": "R2D2 is looking for the next yedi",
+      "short_description": "R2D2 is looking for the next yedi. R2D2 and his friends are separated on different sides of the galaxy and they'd need guidance from strength power to meet them back each other",
       "price": 10000
     },
     {
@@ -24,7 +24,7 @@
       "title": "Mary Poppins",
       "rating": 5,
       "genre": "Lego Movies",
-      "short_description": "Do you need somebody to take care of your babies tonight?",
+      "short_description": "Do you need somebody to take care of your babies tonight? She is a magic baby seater which know how to handle babies only like a mother can do",
       "price": 10000
     }
   ]
